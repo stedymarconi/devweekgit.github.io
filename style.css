@@ -100,7 +100,6 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
-
 }
 
 .experience-contents,
@@ -120,7 +119,7 @@
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
     font-size: 18px;
 }
